@@ -1,4 +1,4 @@
-![Alpha Version Cover Image](docs/alpha-version.jpg)
+![Stable Version Cover Image](docs/beta-version.png)
 
 
 ## Purpose.
