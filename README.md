@@ -21,7 +21,7 @@ This project used:
 
 * C++11: Base programming language.
 * Modern OpengGL: Base graphics rendering API.
-* GLSL 330 Core: Version 330 of OpenGL Shading Language.
+* GLSL 330 Core: Version 330 of OpenGL Shading Language. 
 * GLEW: Wrapper.
 * GLFW: Window context and input provider.
 * GLM: OpenGL Mathematics, usefull for transformations and matrix manipulation.
