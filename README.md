@@ -13,7 +13,7 @@ The Point Cloud dataset shown in the images, was provided in the website: [Seman
 
 ## This Project.
 
-A basic point cloud viewer, made with C++11 and powered by modern OpenGL, is capable of loading and generate a visualization from small to large point cloud datasets, also is able to highlight points with colors (RGB) and it's intensities.
+A basic point cloud viewer, made with C++11 and powered by modern OpenGL, is capable of loading and generate a visualization from small to large point cloud datasets, also is able to highlight points with colors (RGB).
 
 ## What was used.
 
@@ -44,6 +44,7 @@ This project used:
 
 - [ ] Implement variable zoom.
 - [ ] Implement free camera movement.
+- [ ] Intensity reader.
 - [ ] Abstraction into classes.
 - [ ] Implement built-in dataset normalizator.
 - [ ] Camera with movement driven by mouse.
